@@ -1,0 +1,3 @@
+- https://doc.rust-lang.org/book/ch19-01-unsafe-rust.html
+- https://doc.rust-lang.org/nomicon/
+- https://geo-ant.github.io/blog/2023/unsafe-rust-exploration/
